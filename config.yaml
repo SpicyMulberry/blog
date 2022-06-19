@@ -1,10 +1,9 @@
-baseurl: https://SpicyMullberry.github.io
+baseurl: https://spicymullberry.github.io
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 5
 title: Example Site
 publishDir: docs  # github pagesの設定
-canonifyurls: true
 
 languages:
     ja:
