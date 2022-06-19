@@ -37,7 +37,9 @@
 &lt;li&gt;wsl2を有効化してubuntuとwindows terminal入れる（wtは任意）。&lt;/li&gt;
 &lt;li&gt;homebrewを入れる（aptでインストールされたhugoはバージョンが古くて使いたいブログのテーマが使えない！かといって自分でビルドするのはめんどい！）。&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://miiitomi.github.io/p/hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;このサイト様&lt;/a&gt;を参考に設定、公開する。&lt;/li&gt;
+    &gt;このサイト様&lt;/a&gt;を参考に設定。&lt;/li&gt;
+&lt;li&gt;公開に関しては&lt;a class=&#34;link&#34; href=&#34;https://qiita.com/ysdyt/items/a581277dd1312a0e83c3#%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%81%A7%E3%82%B5%E3%82%A4%E3%83%88%E8%A1%A8%E7%A4%BA&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;このサイト様&lt;/a&gt;を参考にする。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;注意点&#34;&gt;注意点&lt;/h2&gt;
 &lt;ul&gt;
