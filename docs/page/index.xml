@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on スパイシーな桑の木のブログ</title>
-        <link>https://SpicyMullberry.github.io/page/</link>
+        <link>https://spicymullberry.github.io/page/</link>
         <description>Recent content in Pages on スパイシーな桑の木のブログ</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://SpicyMullberry.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spicymullberry.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://SpicyMullberry.github.io/about/</link>
+        <link>https://spicymullberry.github.io/about/</link>
         <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://SpicyMullberry.github.io/about/</guid>
-        <description>&lt;p&gt;地方の大学院生です。最近は絵の練習をしてます。ネコ好き。&lt;/p&gt;
+        <guid>https://spicymullberry.github.io/about/</guid>
+        <description>&lt;p&gt;地方の大学院生。ネコ好き。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Archives</title>
-        <link>https://SpicyMullberry.github.io/archives/</link>
+        <link>https://spicymullberry.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://SpicyMullberry.github.io/archives/</guid>
+        <guid>https://spicymullberry.github.io/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Links</title>
-        <link>https://SpicyMullberry.github.io/links/</link>
+        <link>https://spicymullberry.github.io/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://SpicyMullberry.github.io/links/</guid>
+        <guid>https://spicymullberry.github.io/links/</guid>
         <description>&lt;!--
 To use this feature, add `links` section to frontmatter.
 
@@ -51,10 +51,10 @@ links:
         </item>
         <item>
         <title>Search</title>
-        <link>https://SpicyMullberry.github.io/search/</link>
+        <link>https://spicymullberry.github.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://SpicyMullberry.github.io/search/</guid>
+        <guid>https://spicymullberry.github.io/search/</guid>
         <description></description>
         </item>
         
