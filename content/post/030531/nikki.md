@@ -26,5 +26,17 @@ aliases = ["migrate-from-jekyl"]
 - config.yamlのbaseurlは<strong>正確</strong>なurlを記入すること！！
 - config.yamlに"canonifyurls: true"を追加しないと何故か上手くサイトが遷移しないぞ！
 
+```yaml
+# config.yaml
+baseurl: https://spicymulberry.github.io/blog/
+languageCode: ja
+theme: hugo-theme-stack
+paginate: 5
+title: blog
+publishDir: docs  # github pagesの設定
+canonifyurls: true
+```
+
+
 ## 思ったこと
 homebrewってlinuxで使えるんだね…
