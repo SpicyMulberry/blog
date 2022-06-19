@@ -23,6 +23,7 @@ aliases = ["migrate-from-jekyl"]
 
 ## 注意点
 - config.yamlのbaseurlは<strong>正確</strong>なurlを記入すること！！
+- config.yamlに"canonifyurls: true"を追加しないと何故か上手くサイトが遷移しないぞ！
 
 ## 思ったこと
 homebrewってlinuxで使えるんだね…

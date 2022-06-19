@@ -42,6 +42,7 @@
 &lt;h2 id=&#34;注意点&#34;&gt;注意点&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;config.yamlのbaseurlは&lt;strong&gt;正確&lt;/strong&gt;なurlを記入すること！！&lt;/li&gt;
+&lt;li&gt;config.yamlに&amp;quot;canonifyurls: true&amp;quot;を追加しないと何故か上手くサイトが遷移しないぞ！&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;思ったこと&#34;&gt;思ったこと&lt;/h2&gt;
 &lt;p&gt;homebrewってlinuxで使えるんだね…&lt;/p&gt;</description>
