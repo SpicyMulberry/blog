@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>hugo on スパイシーな桑の木のブログ</title>
+        <link>https://spicymulberry.github.io/blog/tags/hugo/</link>
+        <description>Recent content in hugo on スパイシーな桑の木のブログ</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://spicymulberry.github.io/blog/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>hugoを使ってブログを公開するまでの手順</title>
+        <link>https://spicymulberry.github.io/blog/p/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86/</link>
+        <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://spicymulberry.github.io/blog/p/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86/</guid>
+        <description>&lt;h2 id=&#34;hugoを使ったブログ導入手順&#34;&gt;hugoを使ったブログ導入手順&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;wsl2を有効化してubuntuとwindows terminal入れる（wtは任意）。&lt;/li&gt;
+&lt;li&gt;homebrewを入れる（aptでインストールされたhugoはバージョンが古くて使いたいブログのテーマが使えない！かといって自分でビルドするのはめんどい！）。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://miiitomi.github.io/p/hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;このサイト様&lt;/a&gt;を参考に設定、公開する。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;注意点&#34;&gt;注意点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;config.yamlのbaseurlは&lt;strong&gt;正確&lt;/strong&gt;なurlを記入すること！！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;思ったこと&#34;&gt;思ったこと&lt;/h2&gt;
+&lt;p&gt;homebrewってlinuxで使えるんだね…&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
