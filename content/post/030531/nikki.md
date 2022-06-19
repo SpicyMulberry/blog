@@ -21,5 +21,8 @@ aliases = ["migrate-from-jekyl"]
 1. homebrewを入れる（aptでインストールされたhugoはバージョンが古くて使いたいブログのテーマが使えない！かといって自分でビルドするのはめんどい！）。
 1. [このサイト様](https://miiitomi.github.io/p/hugo/)を参考に設定、公開する。
 
+## 注意点
+- config.yamlのbaseurlは<strong>正確</strong>なurlを記入すること！！
+
 ## 思ったこと
 homebrewってlinuxで使えるんだね…

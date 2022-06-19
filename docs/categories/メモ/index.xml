@@ -19,6 +19,10 @@
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://miiitomi.github.io/p/hugo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;このサイト様&lt;/a&gt;を参考に設定、公開する。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h2 id=&#34;注意点&#34;&gt;注意点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;config.yamlのbaseurlは&lt;strong&gt;正確&lt;/strong&gt;なurlを記入すること！！&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;思ったこと&#34;&gt;思ったこと&lt;/h2&gt;
 &lt;p&gt;homebrewってlinuxで使えるんだね…&lt;/p&gt;</description>
         </item>
