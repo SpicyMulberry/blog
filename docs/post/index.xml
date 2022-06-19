@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on スパイシーな桑の木のブログ</title>
-        <link>https://spicymullberry.github.io/post/</link>
+        <link>https://spicymullberry.github.io/blog/post/</link>
         <description>Recent content in Posts on スパイシーな桑の木のブログ</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja</language>
-        <lastBuildDate>Sun, 19 Jun 2022 12:29:09 +0900</lastBuildDate><atom:link href="https://spicymullberry.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Jun 2022 12:29:09 +0900</lastBuildDate><atom:link href="https://spicymullberry.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>久々の活字</title>
-        <link>https://spicymullberry.github.io/p/%E4%B9%85%E3%80%85%E3%81%AE%E6%B4%BB%E5%AD%97/</link>
+        <link>https://spicymullberry.github.io/blog/p/%E4%B9%85%E3%80%85%E3%81%AE%E6%B4%BB%E5%AD%97/</link>
         <pubDate>Sun, 19 Jun 2022 12:29:09 +0900</pubDate>
         
-        <guid>https://spicymullberry.github.io/p/%E4%B9%85%E3%80%85%E3%81%AE%E6%B4%BB%E5%AD%97/</guid>
+        <guid>https://spicymullberry.github.io/blog/p/%E4%B9%85%E3%80%85%E3%81%AE%E6%B4%BB%E5%AD%97/</guid>
         <description>&lt;h1 id=&#34;今日のお絵描き&#34;&gt;今日のお絵描き&lt;/h1&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;学生服メノウ&lt;br&gt;上段回し蹴りとか得意そう…&lt;a href=&#34;https://twitter.com/hashtag/%E5%87%A6%E5%88%91%E5%B0%91%E5%A5%B3?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#処刑少女&lt;/a&gt; &lt;a href=&#34;https://t.co/Kb0nii4RtA&#34;&gt;pic.twitter.com/Kb0nii4RtA&lt;/a&gt;&lt;/p&gt;&amp;mdash; スパイシーな桑の木 (@vv4He1NXK23tfEj) &lt;a href=&#34;https://twitter.com/vv4He1NXK23tfEj/status/1538348776414359552?ref_src=twsrc%5Etfw&#34;&gt;June 19, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt; 
 &lt;p&gt;処刑少女のメノウちゃんにアカリと同じ（西彫学園高校の）制服を着せてみた。アニメ2話冒頭、原作5巻ラスト、6巻のイラストを参考にした。線を一本に絞って描くことにより清書、トレスの練習になった気がする。アタリ（アカリじゃない）とか適当なのでめっちゃ手癖出てる。よく見ると「ん？」って所があるけどメノウちゃんカワイイのでヨシ（&lt;strike&gt;若干ツッパ〇っぽいけど…&lt;/strike&gt;）！デッサン力をもっと鍛えたい。処刑少女の女の子みんなカワイイので、モモとかアカリとかモモとかアーシュナとかモモとかもっといっぱい描きたい。&lt;/p&gt;
@@ -28,10 +28,10 @@
         </item>
         <item>
         <title>hugoを使ってブログを公開するまでの手順</title>
-        <link>https://spicymullberry.github.io/p/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86/</link>
+        <link>https://spicymullberry.github.io/blog/p/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86/</link>
         <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://spicymullberry.github.io/p/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86/</guid>
+        <guid>https://spicymullberry.github.io/blog/p/hugo%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E5%85%AC%E9%96%8B%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AE%E6%89%8B%E9%A0%86/</guid>
         <description>&lt;h2 id=&#34;hugoを使ったブログ導入手順&#34;&gt;hugoを使ったブログ導入手順&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;wsl2を有効化してubuntuとwindows terminal入れる（wtは任意）。&lt;/li&gt;
