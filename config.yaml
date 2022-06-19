@@ -1,4 +1,4 @@
-baseurl: https://spicymullberry.github.io/blog
+baseurl: https://spicymulberry.github.io/blog/
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 5
